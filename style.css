@@ -1,0 +1,107 @@
+	body {
+	background-color: #EDEDED;
+	color: BLACK;
+	font-family: 'Libre Franklin', sans-serif;
+
+}
+
+h1 {
+	text-align:center;
+	color: BLACK;
+}
+a:link 
+{ 
+ text-decoration:none;
+ color: #E19F33; 
+} 
+h2 {
+	text-align: center;
+
+}
+h3 {
+	background-color: #E19F33;
+	text-align: center;
+	font-size: 30px;
+
+}
+
+.bloc-shadow {
+	text-align: center;
+	background-color: #F8F8F8 ;
+	width:500px;height:300px;
+	padding: 50px ;
+	margin: 50px ;
+	box-shadow: 5px 10px 15px black ;
+	border-radius:5px
+
+}
+
+#deux {
+	border: 15px solid #16A085 ;
+}
+
+#fan-sport {
+	border: 15px solid #A93226;
+	text-align: center;
+}
+
+#barca {
+	/*margin-top: 50px;*/
+	text-align: center;
+}
+
+#EFJ {
+	margin-top: 10px;
+}
+#etudes {
+	text-align: justify;
+}
+
+#3 {
+	text-align: center;
+}
+
+
+a{
+	color: #E19F33;
+}
+
+
+
+	
+#container {
+	font-size: 45px;
+	width: 1200px;
+	display: flex;
+	justify-content: space-between;
+	align-items: baseline;
+	text-align: center;
+	width: 1200px;
+	background-color: black;
+	color: white;
+	border: 20px solid #E19F33;
+}
+
+#Journalisme {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+#exper {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+#Expérience{
+	border: 15px solid #FCF000;
+}
+
+#journaliste-plurimédia {
+	border: 15px solid black;
+}
+
+ul {
+	list-style: none;
+}
